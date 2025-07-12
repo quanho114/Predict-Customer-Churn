@@ -10,6 +10,7 @@ This project aims to predict whether a customer will churn based on service usag
 - **Target**: `Churn` (Yes/No)
 - 
 Please download the dataset manually from [this Kaggle link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 The dataset contains customer demographics, account information, and service usage details, which are used to train a churn prediction model.
 
 ## Objectives
