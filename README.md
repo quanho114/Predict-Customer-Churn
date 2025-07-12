@@ -84,11 +84,9 @@ Four variations of the Logistic Regression model were evaluated based on the use
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
-cd customer-churn-prediction
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/quanho114/Predict-Customer-Churn.git
+cd Predict-Customer-Churn
 
 # Launch Jupyter Notebook
-jupyter notebook churn_prediction.ipynb
+jupyter notebook Final_project.ipynb
+
